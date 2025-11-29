@@ -24,5 +24,7 @@ public class retangulo {
 
         diagonal = Math.sqrt(base * base + altura * altura);
         System.out.printf("DIAGONAL = %.4f\n", diagonal);
+
+        sc.close();
     }
 }
